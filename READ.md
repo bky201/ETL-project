@@ -6,4 +6,8 @@ INSTRUCTOR=https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IB
 
 Departments=https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/Departments.csv
 
-gdp='https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29'
+gdp=https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29
+
+exchangeRate=https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/exchange_rate.csv
+
+banks=https://web.archive.org/web/20230908091635 /https://en.wikipedia.org/wiki/List_of_largest_banks
